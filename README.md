@@ -17,13 +17,13 @@ Coisas legais sobre mim:
     <img src="https://img.shields.io/badge/LinkedIn-d3d3d3?style=for-the-badge&logo=linkedin&logoColor=0E76A8" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/4ndre.dev/">
-    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-d3d3d3?style=for-the-badge&logo=instagram" alt="Instagram">
   </a>
 <a href=https://discord.com/channels/@me>
-  <img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord" alt="Discord">
+  <img src="https://img.shields.io/badge/Discord-d3d3d3?style=for-the-badge&logo=discord" alt="Discord">
 </a>
 <a href="https://github.com/4ndredev">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-d3d3d3?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 
 
